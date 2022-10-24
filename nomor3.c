@@ -8,6 +8,7 @@ int main()
     char Nama_Lengkap[50], NIM[10], Prodi[60];
 
     int Nilai1, Nilai2, Nilai3, Hasil;
+    
     printf("Nama mahasiswa: ");
     gets(Nama_Lengkap);
 
